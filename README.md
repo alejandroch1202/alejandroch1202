@@ -1,6 +1,4 @@
-<p align="center"><a href="https://alejandroch1202.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/alejandroch1202/alejandroch1202.github.io/main/img/code.png" width="80" alt="Logo"></a></p>
-
-# Alejandro Chavez
+<p align="center"><a href="https://alejandroch1202.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/alejandroch1202/alejandroch1202.github.io/main/img/code.png" width="50" alt="Logo" align="center"> Alejandro Chavez</a></p>
 
 ## About
 
