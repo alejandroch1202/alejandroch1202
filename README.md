@@ -5,7 +5,7 @@ I have 3 years of experience working as a Software Engineer. Last year focused o
 I can communicate effectively in both Spanish and English, I keep learning and training every day, willing to keep growing up. Student at Platzi, Udemy and FreeCodeCamp.
 
 ## Skills
-- JavaScript.
+- JavaScript / TypeScript.
 - Node.js.
 - React.js.
 - Next.js.
