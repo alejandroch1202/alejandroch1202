@@ -15,6 +15,6 @@ I can communicate effectively in both Spanish and English, I keep learning and t
 ## Contact
 I am open to new job opportunities. I'm always learning, I can work remotely and in some specific cases I am open to moving to work in person or hybrid. If you have any questions, feel free to email me or contact me on any of the platforms below:
 
-- [Website](https://alejandroch1202.github.io/)
+- [Website](https://alejandroch.com/)
 - [LinkedIn](https://www.linkedin.com/in/alejandroch/)
 - [GitHub](https://github.com/alejandroch1202/)
