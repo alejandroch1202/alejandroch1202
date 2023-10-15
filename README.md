@@ -6,11 +6,11 @@ I can communicate effectively in both Spanish and English, I keep learning and t
 
 ## Skills
 - JavaScript / TypeScript.
-- Node.js.
 - React.js.
 - Next.js.
+- Node.js.
 - Express.js.
-- Sequelize (PostgreSQL & MySQL)
+- MongoDB & PostgreSQL/MySQL
 
 ## Contact
 I am open to new job opportunities. I'm always learning, I can work remotely and in some specific cases I am open to moving to work in person or hybrid. If you have any questions, feel free to email me or contact me on any of the platforms below:
