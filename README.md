@@ -1,20 +1,14 @@
-## About
+## It's [alejandroch](https://alejandroch.com)
+I'm a fullstack developer, currently working @ [ubiot](https://ubiot.io).
 
-I have 3 years of experience working as a Software Engineer. Last year focused on Web Development with JavaScript in both: Frontend with React.js and Next.js framework and Backend with Node.js and Express.js & DB with PostgreSQL and MySQL with Sequelize. 
-
-I can communicate effectively in both Spanish and English, I keep learning and training every day, willing to keep growing up. Student at Platzi, Udemy and FreeCodeCamp.
-
-## Skills
-- JavaScript / TypeScript.
-- React.js.
-- Next.js.
-- Node.js.
-- Express.js.
-- MongoDB & PostgreSQL/MySQL
-
-## Contact
-I am open to new job opportunities. I'm always learning, I can work remotely and in some specific cases I am open to moving to work in person or hybrid. If you have any questions, feel free to email me or contact me on any of the platforms below:
-
-- [Website](https://alejandroch.com/)
-- [LinkedIn](https://www.linkedin.com/in/alejandroch/)
-- [GitHub](https://github.com/alejandroch1202/)
+### Languages and tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
